@@ -24,13 +24,13 @@ body {
 }
 
 .hero-text{
-  text-weight: extra-bold;
-  test-size: 48px;
+  font-weight: extra-bold;
+  font-size: 48px;
   color: #F9FAF8;
 }
 
 .subhero {
-  text-size: 18px;
+  font-size: 18px;
   color: #E5E7EB
 }
 
