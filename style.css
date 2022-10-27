@@ -23,6 +23,17 @@ body {
   justify-content: space-between;
 }
 
+.hero-text{
+  text-weight: extra-bold;
+  test-size: 48px;
+  color: #F9FAF8;
+}
+
+.subhero {
+  text-size: 18px;
+  color: #E5E7EB
+}
+
 .random-info{
   background-color: white;
 }
