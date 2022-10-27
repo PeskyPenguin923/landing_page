@@ -19,3 +19,11 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.random-info{
+  background-color: white;
+}
+
+.quote-container{
+  background-color: #E5E7EB
+}
