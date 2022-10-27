@@ -22,7 +22,7 @@ body {
   margin-right:200px;
   width: 400px;
   display: flex;
-  justify-content: space-around:
+  justify-content: space-between;
 }
 
 .top-container {
