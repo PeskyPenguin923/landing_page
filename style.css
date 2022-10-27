@@ -20,6 +20,7 @@ body {
   color: #E5E7EB;
   font-size: 18px;
   margin-right:200px;
+  width: 400px;
   display: flex;
   justify-content: space-around:
 }
