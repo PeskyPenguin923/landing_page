@@ -171,18 +171,14 @@ body {
 
 .left-call {
   color: white;
-  
+  width: 600px;
+  margin-left: 120px;
+  margin-top: 30px;
 }
 
 .right-call {
   height: 115px;
   width: 450px;
-}
-
-.left-call {
-  width: 600px;
-  margin-left: 120px;
-  
 }
 
 .left-call .top {
