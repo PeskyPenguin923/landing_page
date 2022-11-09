@@ -179,6 +179,12 @@ body {
   width: 450px;
 }
 
+.left-call {
+  width: 600px;
+  margin-left: 120px;
+  
+}
+
 .left-call .top {
   font-size: 24px;
   font-weight: bold;
